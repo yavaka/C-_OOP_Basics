@@ -1,0 +1,7 @@
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\bin\Debug\Company_Roster.exe.config
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\bin\Debug\Company_Roster.exe
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\bin\Debug\Company_Roster.pdb
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\obj\Debug\Company_Roster.csprojAssemblyReference.cache
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\obj\Debug\Company_Roster.csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\obj\Debug\Company_Roster.exe
+D:\Programming\C#OOPBasic\Defining Classes\Defining classes\Company_Roster\obj\Debug\Company_Roster.pdb
