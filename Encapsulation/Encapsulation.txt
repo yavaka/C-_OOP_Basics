@@ -1,0 +1,35 @@
+                Encapsulation
+
+1. Encapsulation (Hiding implementation) : 
+Process of wrapping code and data together into a single unit.
+    1.1. Class fields must be private.
+    1.2. Use getters and setters to access data.
+
+2. Keyword this : 
+    2.1. This is reference to the current object.
+    2.2. This refers to the current instance of the class.
+    2.3. This can be passed as a parameter to other methods.
+    2.4. This can be returned from method.
+    2.5. This can invoke current class methods.
+    2.6. This can be used for constructor overloading
+
+3. Access modifiers :
+
+    3.1. Private modifier : 
+        * Main way to perform encapsulation and hide data from the outside world.
+        * Private is the default modifier.
+    
+    3.2. Protected modifier : 
+        * Can only be accessed by inherited classes.
+        * Avoid declaring protected classes. 
+
+    3.3. Internal modifier : 
+        * Internal is default class modifier in C#.
+        * Accessible to any other classes in a project.
+
+
+
+
+4. State validation :
+
+5. Mutable and immutable objects : 

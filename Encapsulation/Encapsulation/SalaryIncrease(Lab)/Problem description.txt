@@ -1,0 +1,28 @@
+        Salary Increase
+
+Refactor project from last task.
+Read person with their names, age and salary. Read percent bonus to every person salary. People younger than 30
+get half the increase. Expand Person from the previous task.
+New fields and methods:
+ salary: decimal
+ IncreaseSalary(decimal percentage)
+
+Examples
+
+Input :
+
+5
+Asen Ivanov 65 2200
+Boiko Borisov 57 3333
+Ventsislav Ivanov 27 600
+Asen Harizanoov 44 666.66
+Boiko Angelov 35 559.4
+20
+
+Output :
+
+Asen Ivanov receives 2640.00 leva.
+Boiko Borisov receives 3999.60 leva.
+Ventsislav Ivanov receives 660.00 leva.
+Asen Harizanoov receives 799.99 leva.
+Boiko Angelov receives 671.28 leva.

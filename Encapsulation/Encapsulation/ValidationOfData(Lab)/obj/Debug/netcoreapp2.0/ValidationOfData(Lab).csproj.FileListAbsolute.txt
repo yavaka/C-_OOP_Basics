@@ -1,0 +1,11 @@
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\bin\Debug\netcoreapp2.0\ValidationOfData(Lab).deps.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\bin\Debug\netcoreapp2.0\ValidationOfData(Lab).runtimeconfig.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\bin\Debug\netcoreapp2.0\ValidationOfData(Lab).runtimeconfig.dev.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\bin\Debug\netcoreapp2.0\ValidationOfData(Lab).dll
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\bin\Debug\netcoreapp2.0\ValidationOfData(Lab).pdb
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).csprojAssemblyReference.cache
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).AssemblyInfoInputs.cache
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).AssemblyInfo.cs
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).dll
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ValidationOfData(Lab)\obj\Debug\netcoreapp2.0\ValidationOfData(Lab).pdb
