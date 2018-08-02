@@ -1,0 +1,16 @@
+        Class Box Data Validation
+A box’s side should not be zero or a negative number. Expand your class from the previous problem by adding data
+validation for each parameter given to the constructor. Make a private setter that performs data validation
+internally.
+
+Examples
+
+Input : 
+
+2
+-3
+4
+
+Output :
+
+Width cannot be zero or negative.

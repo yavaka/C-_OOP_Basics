@@ -1,0 +1,10 @@
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\bin\Debug\netcoreapp2.0\ClassBoxDataValidations.deps.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\bin\Debug\netcoreapp2.0\ClassBoxDataValidations.runtimeconfig.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\bin\Debug\netcoreapp2.0\ClassBoxDataValidations.runtimeconfig.dev.json
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\bin\Debug\netcoreapp2.0\ClassBoxDataValidations.dll
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\bin\Debug\netcoreapp2.0\ClassBoxDataValidations.pdb
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\obj\Debug\netcoreapp2.0\ClassBoxDataValidations.csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\obj\Debug\netcoreapp2.0\ClassBoxDataValidations.AssemblyInfoInputs.cache
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\obj\Debug\netcoreapp2.0\ClassBoxDataValidations.AssemblyInfo.cs
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\obj\Debug\netcoreapp2.0\ClassBoxDataValidations.dll
+D:\Programming\C#OOPBasic\Encapsulation\Encapsulation\ClassBoxDataValidations\obj\Debug\netcoreapp2.0\ClassBoxDataValidations.pdb
