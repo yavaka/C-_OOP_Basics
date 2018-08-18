@@ -1,0 +1,6 @@
+                Single Inheritance
+
+Create two classes named Animal and Dog.
+Animal with a single public method Eat() that prints: &quot;eating…&quot;
+Dog with a single public method Bark() that prints: &quot;barking…&quot;
+Dog should inherit from Animal.

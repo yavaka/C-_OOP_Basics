@@ -1,0 +1,7 @@
+                Hierarchical Inheritance
+
+Create three classes named Animal, Dog and Cat.
+Animal with a single public method Eat() that prints: &quot;eating…&quot;
+Dog with a single public method Bark() that prints: &quot;barking…&quot;
+Cat with a single public method Meow() that prints: &quot;meowing…&quot;
+Dog and Cat should inherit from Animal.

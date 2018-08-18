@@ -1,0 +1,11 @@
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\bin\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).deps.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\bin\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).runtimeconfig.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\bin\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).runtimeconfig.dev.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\bin\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\bin\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).pdb
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).csprojAssemblyReference.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).AssemblyInfoInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).AssemblyInfo.cs
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\HierarchicalInheritance(LAB)\obj\Debug\netcoreapp2.0\HierarchicalInheritance(LAB).pdb

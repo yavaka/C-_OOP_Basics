@@ -1,0 +1,11 @@
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\bin\Debug\netcoreapp2.0\RandomList(LAB).deps.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\bin\Debug\netcoreapp2.0\RandomList(LAB).runtimeconfig.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\bin\Debug\netcoreapp2.0\RandomList(LAB).runtimeconfig.dev.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\bin\Debug\netcoreapp2.0\RandomList(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\bin\Debug\netcoreapp2.0\RandomList(LAB).pdb
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).csprojAssemblyReference.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).AssemblyInfoInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).AssemblyInfo.cs
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\RandomList(LAB)\obj\Debug\netcoreapp2.0\RandomList(LAB).pdb

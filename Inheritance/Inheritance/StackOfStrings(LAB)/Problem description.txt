@@ -1,0 +1,8 @@
+                Stack of Strings
+
+Create a class StackOfStrings which can store only strings and has the following functionality:
+ Private field: data: List&lt;string&gt;
+ Public method: Push(string item): void
+ Public method: Pop(): string
+ Public method: Peek(): string
+ Public method: IsEmpty(): bool

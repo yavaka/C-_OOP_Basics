@@ -1,0 +1,5 @@
+                Random List
+
+Create a RandomList class that has all the functionality of List&lt;string&gt;.
+Add additional function that returns and removes a random element from the list.
+    Public method: RandomString(): string

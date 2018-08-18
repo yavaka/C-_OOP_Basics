@@ -1,0 +1,10 @@
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\bin\Debug\netcoreapp2.0\MultipleInheritance(LAB).deps.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\bin\Debug\netcoreapp2.0\MultipleInheritance(LAB).runtimeconfig.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\bin\Debug\netcoreapp2.0\MultipleInheritance(LAB).runtimeconfig.dev.json
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\bin\Debug\netcoreapp2.0\MultipleInheritance(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\bin\Debug\netcoreapp2.0\MultipleInheritance(LAB).pdb
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\obj\Debug\netcoreapp2.0\MultipleInheritance(LAB).csproj.CoreCompileInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\obj\Debug\netcoreapp2.0\MultipleInheritance(LAB).AssemblyInfoInputs.cache
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\obj\Debug\netcoreapp2.0\MultipleInheritance(LAB).AssemblyInfo.cs
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\obj\Debug\netcoreapp2.0\MultipleInheritance(LAB).dll
+D:\Programming\C#OOPBasic\Inheritance\Inheritance\MultipleInheritance(LAB)\obj\Debug\netcoreapp2.0\MultipleInheritance(LAB).pdb
